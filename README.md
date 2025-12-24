@@ -37,9 +37,6 @@
 
 Supply Chain Analytics has become a critical capability for organizations operating in highly competitive, globalized, and data-driven environments. Increasing customer expectations, complex logistics networks, cost pressures, and sustainability requirements demand fast, accurate, and data-backed decision-making across the entire supply chain. This repository presents a comprehensive Supply Chain Analytics portfolio, showcasing how Data Science, exploratory data analysis, and machine learning techniques can be applied to real-world supply chain problems. Using open datasets from e-commerce operations, logistics performance, inventory management, and greenhouse gas emissions, this project demonstrates end-to-end analytical workflows — from raw data to actionable business insights. The goal of this portfolio is not only technical proficiency, but also business-oriented problem solving, translating complex data into insights that support operational efficiency, service level improvement, cost reduction, and sustainable supply chain strategies.
 
-Perfeito. Abaixo está um **bloco de INTRODUCTION + BUSINESS CONTEXT**, **100% em inglês**, **profissional**, **bem estruturado** e **pronto para colar diretamente no seu README**.
-O texto é adequado para **GitHub, recrutadores, líderes de Supply Chain e Data Science**.
-
 ## Business Context
 
 Modern supply chains are complex systems involving multiple interconnected processes, including **demand planning, procurement, inventory control, order fulfillment, transportation, and customer delivery**. Any inefficiency or disruption in one part of the chain can propagate downstream, leading to increased costs, delivery delays, and customer dissatisfaction. At the same time, organizations are under growing pressure to meet **environmental, social, and governance (ESG)** requirements, making sustainability and carbon footprint analysis an integral part of supply chain decision-making.
