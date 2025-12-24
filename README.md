@@ -29,9 +29,55 @@
 ![Industry](https://img.shields.io/badge/Industry-Supply%20Chain%20%26%20Logistics-34495E)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+<p align="center">
+  <img src="https://github.com/RafaelGallo/Supply-Chain-Analytics-Portfolio/blob/main/img/3.jpeg?raw=true" alt="Supply Chain Analytics" width="800"/>
+</p>
 
-Below is a **complete, professional README written entirely in English**, ready to be used directly in a GitHub repository as a **Supply Chain Analytics portfolio project**.
-The content is structured for **recruiters, data teams, and business stakeholders**. This repository contains a collection of **end-to-end Data Science projects applied to Supply Chain**, using real-world datasets related to **logistics, e-commerce operations, order management, and greenhouse gas emissions**.The goal of this portfolio is to demonstrate how **data-driven approaches** can support **operational efficiency, cost reduction, service level improvement, and sustainability** across the supply chain.
+## Introduction
+
+Supply Chain Analytics has become a critical capability for organizations operating in highly competitive, globalized, and data-driven environments. Increasing customer expectations, complex logistics networks, cost pressures, and sustainability requirements demand fast, accurate, and data-backed decision-making across the entire supply chain. This repository presents a comprehensive Supply Chain Analytics portfolio, showcasing how Data Science, exploratory data analysis, and machine learning techniques can be applied to real-world supply chain problems. Using open datasets from e-commerce operations, logistics performance, inventory management, and greenhouse gas emissions, this project demonstrates end-to-end analytical workflows — from raw data to actionable business insights. The goal of this portfolio is not only technical proficiency, but also business-oriented problem solving, translating complex data into insights that support operational efficiency, service level improvement, cost reduction, and sustainable supply chain strategies.
+
+Perfeito. Abaixo está um **bloco de INTRODUCTION + BUSINESS CONTEXT**, **100% em inglês**, **profissional**, **bem estruturado** e **pronto para colar diretamente no seu README**.
+O texto é adequado para **GitHub, recrutadores, líderes de Supply Chain e Data Science**.
+
+## Business Context
+
+Modern supply chains are complex systems involving multiple interconnected processes, including **demand planning, procurement, inventory control, order fulfillment, transportation, and customer delivery**. Any inefficiency or disruption in one part of the chain can propagate downstream, leading to increased costs, delivery delays, and customer dissatisfaction. At the same time, organizations are under growing pressure to meet **environmental, social, and governance (ESG)** requirements, making sustainability and carbon footprint analysis an integral part of supply chain decision-making.
+
+Key challenges addressed in this project include:
+
+* Limited visibility across logistics and order flows
+* Inventory imbalance (stockouts vs. overstock)
+* Delivery delays and service-level degradation
+* Rising logistics and transportation costs
+* Customer experience variability in e-commerce
+* Increasing regulatory and stakeholder pressure on carbon emissions
+
+This portfolio demonstrates how **data-driven analytics** can address these challenges by:
+
+* Identifying bottlenecks and inefficiencies in logistics operations
+* Monitoring and optimizing key Supply Chain KPIs
+* Understanding customer behavior and order patterns
+* Supporting predictive insights for demand and delays
+* Quantifying environmental impact across the supply chain
+
+By combining **business understanding with analytical rigor**, this project reflects how Supply Chain Analytics can support **strategic, tactical, and operational decision-making** in real-world organizations.
+
+---
+
+### Optional section (recommended for recruiters)
+
+You can add this immediately after the Business Context if you want a stronger professional positioning:
+
+```markdown
+This project is designed as a professional portfolio for roles in:
+- Supply Chain Analytics
+- Data Science
+- Business Intelligence
+- Operations and Logistics Analytics
+
+All analyses are performed with a strong focus on business relevance, interpretability, and practical decision support.
+```
 
 ## Project Objectives
 
